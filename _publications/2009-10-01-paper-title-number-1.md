@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A TinyML solution for presence detection with UWB-radar.'
 date: 2022-07-23
-venue: 'The International Joint Conference on Neural Networks (IJCNN), Padua, 2022, July 18, 2022 July 23,
-2022 Congress proceedings'
+venue: 'The International Joint Conference on Neural Networks (IJCNN), Padua (IT), 2022 Congress proceedings'
 paperurl: 'https://ieeexplore.ieee.org/document/9892925'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -15,4 +14,4 @@ To achieve this goal we introduce a novel family of tiny convolutional neural ne
 
 The proposed solution has been successfully tested on a public-available benchmark for the indoor presence detection and on a real-world application of in-car presence detection. 
 
-Recommended citation: M. Pavan, A. Caltabiano, M. Roveri (2022). "TinyML for UWB-radar based presence detection." <i>Journal 1</i>. 1(1).
+Recommended citation: M. Pavan, A. Caltabiano, M. Roveri (2022). "TinyML for UWB-radar based presence detection." <i>WCCI 2022 Congress Procedings</i>. 1(1).
