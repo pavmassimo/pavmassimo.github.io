@@ -1,7 +1,7 @@
 ---
 title: "Invited Speaker for the Ph.D. course 'Embedded and Edge AI'"
 collection: teaching
-type: "Workshop"
+type: "Ph. D. Course"
 permalink: /teaching/2022-EEAI
 venue: "Politecnico di Milano, DEIB - Dipartimento di elettronica, informazione e Bioingegneria"
 date: 2022-01-08
