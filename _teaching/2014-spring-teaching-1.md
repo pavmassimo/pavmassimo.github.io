@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for the course 'Microcontrollers 1'"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Alta Formazione Professionale course"
+permalink: /teaching/2021-MIC1
+venue: "CFP G. Veronesi, Department"
+date: 2021-12-01
+location: "Rovereto (TN), Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Responsible for the laboratory sessions. Thought some TinyML basic concepts, supervised the project by the students.
