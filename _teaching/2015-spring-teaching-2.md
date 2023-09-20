@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Invited Speaker for the Ph.D. course 'Embedded and Edge AI'"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2022-EEAI
+venue: "Politecnico di Milano, DEIB - Dipartimento di elettronica, informazione e Bioingegneria"
+date: 2022-01-08
+location: "Milan, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Responsible for the organization of the hackaton and some exercise sessions.
