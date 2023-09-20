@@ -3,7 +3,7 @@ title: "On-device Subject Recognition in UWB-radar Data with Tiny Machine Learni
 collection: publications
 permalink: /publication/SubjectRecognition
 excerpt: 'Subject Recognition in UWB-radar: recognize if pets, children or adults are presents inside of a car.'
-date: 2022
+date: 2022-09-23
 venue: 'Cyber-Phisical Sysyem Workshop (CPSW) 2022'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Pavan, M., Caltabiano, A., Roveri, M. (2022). &quot;On-device Subject Recognition in UWB-radar Data with Tiny Machine Learning&quot; <i>Cyber-Phisical Sysyem Workshop (CPSW)</i>. 1(2).'
