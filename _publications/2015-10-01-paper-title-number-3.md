@@ -3,7 +3,7 @@ title: "TyBox: an automatic design and code-generation toolbox for TinyML increm
 collection: publications
 permalink: /publication/Tybox
 excerpt: 'An On-device learning toolbox for the automatic conversion of a static tinyML solution to an incremental learning one.'
-date: 2023-04
+date: 2023-04-01
 venue: 'ACM Transactions on Embedded Computing Systems - Special Issue on TinyML'
 paperurl: 'https://dl.acm.org/doi/10.1145/3604566'
 citation: 'Pavan, M., Ostrovan, E., Caltabiano, A., Roveri, M.  (2023). &quot;TyBox: an automatic design and code-generation toolbox for TinyML incremental on-device learning&quot; <i>ACM Transactions on Embedded Computing Systems - Special Issue on TinyML</i>. 1(3).'
